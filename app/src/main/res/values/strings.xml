@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Complain App</string>
+    <string name="moto">Resolves your complains</string>
+    <string name="edit_1">Email</string>
+    <string name="edit_2">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up!</string>
+    <string name="skip">Skip to local page</string>
+    <string name="db">Database</string>
+    <string name="action_settings">Settings</string>
+</resources>
