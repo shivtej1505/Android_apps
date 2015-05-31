@@ -33,7 +33,7 @@ public class local extends Activity {
             name = c.getString(c.getColumnIndex("name"));
             email = c.getString(c.getColumnIndex("email"));
             pass = c.getString(c.getColumnIndex("password"));
-            rowText.setText("Name: "+ name+ "\n"+"Email:"+email+"\n"+"password:"+pass);
+                rowText.setText("Name: "+ name+ "\n"+"Email:"+email+"\n"+"password:"+pass);
             mylayout.addView(rowText);
             myText[i]=rowText;
             if(c!=null){
